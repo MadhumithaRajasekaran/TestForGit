@@ -1,1 +1,1 @@
-delete student
+delete student details
